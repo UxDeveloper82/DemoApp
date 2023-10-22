@@ -65,3 +65,16 @@ C:\Users\Elect\source\repos\DemoApp\API\bin\Debug\net7.0\Microsoft.IdentityModel
 C:\Users\Elect\source\repos\DemoApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Elect\source\repos\DemoApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Elect\source\repos\DemoApp\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Elect\source\repos\DemoApp\API\bin\Debug\net7.0\Data\UserSeedData.json
+C:\Users\Elect\source\repos\DemoApp\API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Elect\source\repos\DemoApp\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Elect\source\repos\DemoApp\API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Elect\source\repos\DemoApp\API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Elect\source\repos\DemoApp\API\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Elect\source\repos\DemoApp\API\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Elect\source\repos\DemoApp\API\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Elect\source\repos\DemoApp\API\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Elect\source\repos\DemoApp\API\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Elect\source\repos\DemoApp\API\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Elect\source\repos\DemoApp\API\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Elect\source\repos\DemoApp\API\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
