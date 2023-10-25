@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elect\\source\\repos\\DemoApp\\API\\API.csproj": {}
+    "C:\\Users\\Elect\\Source\\Repos\\DemoApp\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elect\\source\\repos\\DemoApp\\API\\API.csproj": {
+    "C:\\Users\\Elect\\Source\\Repos\\DemoApp\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elect\\source\\repos\\DemoApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Elect\\Source\\Repos\\DemoApp\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Elect\\source\\repos\\DemoApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Elect\\Source\\Repos\\DemoApp\\API.csproj",
         "packagesPath": "C:\\Users\\Elect\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elect\\source\\repos\\DemoApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\Elect\\Source\\Repos\\DemoApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
